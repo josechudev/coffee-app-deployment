@@ -1,0 +1,3 @@
+output "compute" {
+  value = "compute"
+}
